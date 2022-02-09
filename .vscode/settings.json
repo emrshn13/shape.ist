@@ -1,4 +1,11 @@
 {
-  "cSpell.words": ["CDNURL", "preconnect", "Roboto", "vite"],
+  "cSpell.words": [
+    "CDNURL",
+    "preconnect",
+    "Roboto",
+    "sveltejs",
+    "vercel",
+    "vite"
+  ],
   "cSpell.ignoreWords": ["uzmzj"]
 }
